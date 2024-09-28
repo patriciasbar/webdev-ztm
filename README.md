@@ -18,7 +18,7 @@ Here you’ll find:
 Clone this repo like a boss:
 
 # Clone the repository
-git clone https://github.com/your-username/webdev-ztm.git
+git clone https://github.com/patriciasbar/webdev-ztm.git
 
 # Navigate into the repo
 cd webdev-ztm

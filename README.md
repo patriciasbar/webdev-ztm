@@ -30,12 +30,12 @@ pip install -r requirements.txt
 ⚡ Requirements
 These are the tools that will help you dominate the web-dev world:
 
-🐍 Python - Used for backend magic 🪄.
-📦 Flask or Django - Web frameworks to power your app.
-🌐 HTML/CSS/JavaScript - Frontend, because style matters!
-⚛️ React - For making things interactive and smooth.
-🛠️ Node.js - A little bit of backend heroism.
-More to be added as you dive deeper!
+🐍 Python - Used for backend magic 🪄.  <br>
+📦 Flask or Django - Web frameworks to power your app. <br>
+🌐 HTML/CSS/JavaScript - Frontend, because style matters! <br>
+⚛️ React - For making things interactive and smooth. <br>
+🛠️ Node.js - A little bit of backend heroism. <br>
+
 
 🦾 Ready for the challenge?
 "Coding isn’t everything... it's the only thing."

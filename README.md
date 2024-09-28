@@ -17,26 +17,18 @@ Here you’ll find:
 🔥 Getting Started
 Clone this repo like a boss:
 
-bash
-Copy code
+# Clone the repository
 git clone https://github.com/your-username/webdev-ztm.git
-Navigate into the repo:
 
-bash
-Copy code
+# Navigate into the repo
 cd webdev-ztm
-Activate the virtual environment (because every coder needs a secret weapon 🔫):
 
-For Windows:
-
-bash
-Copy code
+# Activate the virtual environment (for Windows)
 myenv\Scripts\activate
-Install the requirements (Load up your arsenal 🧰):
 
-bash
-Copy code
+# Install the requirements
 pip install -r requirements.txt
+
 ⚡ Requirements
 These are the tools that will help you dominate the web-dev world:
 
